@@ -1,2 +1,2 @@
-# appointment-service
+# appointment-service 0
 Modular monolith appointment scheduling system with API and Web applications in a single repository, designed as a foundational platform for the [UBI](https://github.com/bivarz/user-behavior-insights). Focused on clean domain modeling, real scheduling constraints, and an architecture that enables gradual evolution toward intelligent, data-driven services without premature complexity.
